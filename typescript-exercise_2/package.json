@@ -1,0 +1,28 @@
+{
+  "name": "typescript-exercise_2",
+  "version": "1.0.0",
+  "description": "Typescript Project",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tamermaarouf/typescript-exercise.git"
+  },
+  "author": "Tamer_Maarouf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamermaarouf/typescript-exercise/issues"
+  },
+  "homepage": "https://github.com/tamermaarouf/typescript-exercise#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
