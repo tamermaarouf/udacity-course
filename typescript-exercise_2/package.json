@@ -4,7 +4,7 @@
   "description": "Typescript Project",
   "main": "main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build":"npx tsc"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,9 @@
     "prettier": "^2.6.2",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.3"
-  }
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "type": "module"
 }
