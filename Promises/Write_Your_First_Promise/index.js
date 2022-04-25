@@ -13,7 +13,7 @@ function wait(ms) {
 					resolve();
 				}, ms);
 			});
-		};
+		}
 
 /*
 Uncomment these lines when you want to test!
